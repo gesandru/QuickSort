@@ -61,7 +61,6 @@ class Quicksort {
 // Main class
 class Main {
     public static void main(String args[]) {
-        System.out.println("algo");
         int[] data = new int[1000000];
         long start, stop;
         double diff;
